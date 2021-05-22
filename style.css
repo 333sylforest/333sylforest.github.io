@@ -33,6 +33,9 @@ body {
 
 /* Style the content */
 .content {
+  background-image: url("nasa unsplash.jpg");
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
   background-color: #ddd;
   padding: 10px;
   /*height: 200px; *//* Should be removed. Only for demonstration */

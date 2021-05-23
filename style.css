@@ -20,7 +20,10 @@ body {
 img{
   width: 75%;
   height: auto;
-  vertical-align:middle;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /*vertical-align:middle;*/
 }
 
 /* Style the topnav links */

@@ -18,8 +18,9 @@ body {
 }
 
 img{
-  width: 80%;
+  width: 75%;
   height: auto;
+  vertical-align:middle;
 }
 
 /* Style the topnav links */
